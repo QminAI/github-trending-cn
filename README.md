@@ -7,10 +7,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`{{DATE}}`
+> 自动更新，最后更新：`2026-05-25`
 
 <!-- DAILY_TOP5_START -->
-*数据初始化中，请等待每日自动推送...*
+**今日 Top 5**（2026-05-25）
+
+| # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
+|---|------|------|---------|---------|--------|
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 29.0k | +3999 | 代码库转交互式知识图谱，可视化探索 |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 14.5k | +550 | Claude 知识工作者插件集，定制角色工作流 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 17.7k | +1853 | 从零构建 AI 的完整开源课程 |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 191.6k | +2052 | AI Agent 性能优化与安全系统 |
+| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 8.8k | +930 | 754 个结构化网络安全技能，供 AI 代理使用 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
