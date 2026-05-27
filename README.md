@@ -2,7 +2,9 @@
 
 > 每日自动采集 GitHub Trending，附 DeepSeek AI 生成中文摘要与趋势分析。
 > 完整交互版（搜索 / 收藏 / 历史归档）→ **[gitHot.dev](https://githot.dev)**
-
+<p align="center">
+  <img src="./assets/readme/githot-promo.png" alt="GitHub Trending 中文档案宣传图" width="100%" />
+</p>
 ---
 
 ## 今日榜单
@@ -41,6 +43,16 @@
 - **中文摘要**：DeepSeek LLM 自动生成（每日新增 repo 触发）
 - **更新频率**：每日 08:30 (UTC+8) 自动推送
 - **网站版本**：[gitHot.dev](https://githot.dev) 提供搜索、收藏、历史对比等完整功能
+
+---
+
+## 飞书通知群
+
+每天的 GitHub Trending 中文摘要会同步推送到飞书群，扫码即可加入。
+
+<p align="left">
+  <img src="./assets/readme/feishu-group.png" alt="GitHot 飞书通知群二维码" width="220" />
+</p>
 
 ---
 
