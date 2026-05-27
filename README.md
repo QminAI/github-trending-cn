@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-05-26`
+> 自动更新，最后更新：`2026-05-27`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-05-26）
+**今日 Top 5**（2026-05-27）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 33.7k | +5604 | 代码库转交互式知识图谱 |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 193.3k | +2025 | 跨 AI 编码助手的智能体编排系统 |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 19.8k | +3154 | 从零构建 AI 的完整课程，435 课 20 阶段 |
-| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 16.3k | +1441 | Claude 知识工作者插件集，定制角色工作流 |
-| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 9.7k | +1004 | 754 个结构化网络安全技能，供 AI 代理使用 |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 38.1k | +4697 | 代码库转交互式知识图谱 |
+| 2 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | — | 5.3k | +539 | 去除 AI 写作痕迹的技能文件 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 195.4k | +1915 | 跨 AI 编码助手的智能体编排系统 |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 17.0k | +1718 | Claude 知识工作者插件集，定制角色工作流 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 23.1k | +1430 | 给 AI 前端代码注入设计品味的技能包 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
