@@ -5,6 +5,7 @@
 <p align="center">
   <img src="./assets/readme/githot-promo.png" alt="GitHub Trending 中文档案宣传图" width="100%" />
 </p>
+
 ---
 
 ## 今日榜单
