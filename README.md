@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-05-27`
+> 自动更新，最后更新：`2026-05-28`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-05-27）
+**今日 Top 5**（2026-05-28）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 38.1k | +4697 | 代码库转交互式知识图谱 |
-| 2 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | — | 5.3k | +539 | 去除 AI 写作痕迹的技能文件 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 195.4k | +1915 | 跨 AI 编码助手的智能体编排系统 |
-| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 17.0k | +1718 | Claude 知识工作者插件集，定制角色工作流 |
-| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 23.1k | +1430 | 给 AI 前端代码注入设计品味的技能包 |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 64.9k | +1742 | AI一键生成短视频，输入主题即可 |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 196.7k | +2062 | 跨 AI 编程助手的技能与安全系统 |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 25.4k | +2715 | 给 AI 前端代码注入设计品味的技能包 |
+| 4 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | — | 6.1k | +664 | 去除 AI 写作痕迹的技能文件 |
+| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 47.6k | +519 | 开源 CRM，可代码化定制，对标 Salesforce |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
