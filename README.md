@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-05-28`
+> 自动更新，最后更新：`2026-05-29`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-05-28）
+**今日 Top 5**（2026-05-29）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 64.9k | +1742 | AI一键生成短视频，输入主题即可 |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 196.7k | +2062 | 跨 AI 编程助手的技能与安全系统 |
-| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 25.4k | +2715 | 给 AI 前端代码注入设计品味的技能包 |
-| 4 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | — | 6.1k | +664 | 去除 AI 写作痕迹的技能文件 |
-| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 47.6k | +519 | 开源 CRM，可代码化定制，对标 Salesforce |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 68.3k | +4698 | AI一键生成短视频，输入主题即可 |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 128.5k | +1410 | 文件转 Markdown 的 Python 工具 |
+| 3 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 17.9k | +184 | AI 编码工作流：让每次改动都降低后续成本 |
+| 4 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 48.1k | +493 | 开源 CRM，可代码化定制，对标 Salesforce |
+| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 127.6k | +319 | 终端里的 AI 编程助手，自然语言操控代码 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
