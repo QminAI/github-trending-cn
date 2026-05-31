@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-05-30`
+> 自动更新，最后更新：`2026-05-31`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-05-30）
+**今日 Top 5**（2026-05-31）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 71.0k | +3567 | AI一键生成短视频，输入主题即可 |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 131.0k | +1873 | 文件转 Markdown 的 Python 工具 |
-| 3 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | 18.3k | +353 | AI 编码工作流：让每次改动都降低后续成本 |
-| 4 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 48.6k | +578 | 开源 CRM，可代码化定制，对标 Salesforce |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 128.1k | +395 | 终端里的 AI 编程助手，自然语言操控代码 |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 133.6k | +2470 | 文件转 Markdown 的 Python 工具 |
+| 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 72.9k | +2768 | AI一键生成短视频，输入主题即可 |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | 128.6k | +592 | 终端里的 AI 编程助手，自然语言操控代码 |
+| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 1.6k | +205 | Cursor 官方插件市场与开发规范 |
+| 5 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | 4.4k | +55 | Claude Code 插件，用 6 种架构模式自动生成 Agent 团队与技能 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
