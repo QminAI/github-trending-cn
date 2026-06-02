@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-01`
+> 自动更新，最后更新：`2026-06-02`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-01）
+**今日 Top 5**（2026-06-02）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 136.6k | +2798 | 文件转 Markdown 的 Python 工具 |
-| 2 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 10.4k | +357 | Hermes Agent 的轻量 Web 界面 |
-| 3 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 23.6k | +264 | AI 记忆引擎，让 AI 记住跨会话的用户信息 |
-| 4 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 76.3k | +1937 | AI 一键生成短视频，输入主题即可 |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 57.5k | +606 | 自适应网页抓取框架，自动应对网站结构变化 |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 140.1k | +3034 | 文件转 Markdown 的 Python 工具 |
+| 2 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 12.1k | +945 | Hermes Agent 的轻量 Web 界面 |
+| 3 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | 24.3k | +647 | AI 记忆引擎，让 AI 记住跨会话的用户信息 |
+| 4 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 77.6k | +3375 | AI 一键生成短视频，输入主题即可 |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 58.6k | +1486 | 自适应网页抓取框架，自动处理反爬 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
