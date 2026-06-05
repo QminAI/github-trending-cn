@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-04`
+> 自动更新，最后更新：`2026-06-05`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-04）
+**今日 Top 5**（2026-06-05）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 11.3k | +3530 | 压缩 AI 代理上下文，节省 60-95% token |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 180.1k | +1735 | 能自我进化的 AI 代理，跨平台运行 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 206.5k | +2141 | 跨 AI 编程助手的技能与安全系统 |
-| 4 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 79.5k | +105 | PDF/图片转结构化数据的OCR工具包 |
-| 5 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 108.2k | +311 | AI 辅助的规范驱动开发工具包 |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 13.8k | +3142 | 压缩 AI 代理上下文，节省 60-95% token |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 181.8k | +1913 | 自学习 AI 代理，跨平台运行 |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 207.8k | +1750 | 跨 AI 编程助手的智能体编排系统 |
+| 4 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 80.3k | +141 | PDF/图片转结构化数据的OCR工具包 |
+| 5 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 108.9k | +321 | AI 辅助的规范驱动开发工具包 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
