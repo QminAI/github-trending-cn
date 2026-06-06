@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-05`
+> 自动更新，最后更新：`2026-06-06`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-05）
+**今日 Top 5**（2026-06-06）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 13.8k | +3142 | 压缩 AI 代理上下文，节省 60-95% token |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 181.8k | +1913 | 自学习 AI 代理，跨平台运行 |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 207.8k | +1750 | 跨 AI 编程助手的智能体编排系统 |
-| 4 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 80.3k | +141 | PDF/图片转结构化数据的OCR工具包 |
-| 5 | [github/spec-kit](https://github.com/github/spec-kit) | Python | 108.9k | +321 | AI 辅助的规范驱动开发工具包 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 184.1k | +1845 | 自学习 AI 代理，跨平台运行 |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 15.1k | +2473 | 压缩 AI 代理上下文，减少 60-95% token |
+| 3 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | 32.9k | +366 | 多平台 Agent 前端框架，支持生成式 UI |
+| 4 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 26.3k | +1152 | 开源 Notebook LM，支持多模型与本地部署 |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 208.7k | +1361 | 跨 AI 编程助手的智能体编排系统 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
