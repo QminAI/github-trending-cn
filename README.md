@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-06`
+> 自动更新，最后更新：`2026-06-07`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-06）
+**今日 Top 5**（2026-06-07）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 184.1k | +1845 | 自学习 AI 代理，跨平台运行 |
-| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 15.1k | +2473 | 压缩 AI 代理上下文，减少 60-95% token |
-| 3 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | 32.9k | +366 | 多平台 Agent 前端框架，支持生成式 UI |
-| 4 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 26.3k | +1152 | 开源 Notebook LM，支持多模型与本地部署 |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 208.7k | +1361 | 跨 AI 编程助手的智能体编排系统 |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 29.4k | +439 | AI 搜索聚合 Reddit、X、YouTube 等平台内容 |
+| 2 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | 33.5k | +631 | 多平台 Agent 前端框架，支持生成式 UI |
+| 3 | [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | Python | 54.5k | +446 | 本地优先的 AI 记忆系统，零 API 调用 |
+| 4 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 15.1k | +70 | AI 驱动的个人生活操作系统 |
+| 5 | [openai/plugins](https://github.com/openai/plugins) | JavaScript | 1.9k | +213 | OpenAI Codex 插件示例集合 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
