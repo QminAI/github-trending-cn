@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-08`
+> 自动更新，最后更新：`2026-06-09`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-08）
+**今日 Top 5**（2026-06-09）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 32.9k | +1111 | AI 搜索聚合 Reddit、X、YouTube 等平台内容 |
-| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 7.9k | +1554 | Rust 向量索引，比 FAISS 快且省内存 |
-| 3 | [google/skills](https://github.com/google/skills) | Python | 12.1k | +481 | Google 产品与云服务的 Agent 技能包 |
-| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 13.2k | +245 | 桌面端 Markdown 知识库管理工具 |
-| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 23.5k | +961 | AI Agent 一键接入全网平台，零 API 费用 |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 36.0k | +3558 | AI 搜索聚合 Reddit、X、YouTube 等平台内容 |
+| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 9.7k | +1729 | Rust 向量索引，比 FAISS 快且省内存 |
+| 3 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 42.6k | +1288 | 可复用的计算机视觉工具库 |
+| 4 | [opencv/opencv](https://github.com/opencv/opencv) | C++ | 88.4k | +395 | 开源计算机视觉库，C++ 实现 |
+| 5 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 14.0k | +651 | 桌面端 Markdown 知识库管理工具 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
