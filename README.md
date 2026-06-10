@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-09`
+> 自动更新，最后更新：`2026-06-10`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-09）
+**今日 Top 5**（2026-06-10）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 36.0k | +3558 | AI 搜索聚合 Reddit、X、YouTube 等平台内容 |
-| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 9.7k | +1729 | Rust 向量索引，比 FAISS 快且省内存 |
-| 3 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | 42.6k | +1288 | 可复用的计算机视觉工具库 |
-| 4 | [opencv/opencv](https://github.com/opencv/opencv) | C++ | 88.4k | +395 | 开源计算机视觉库，C++ 实现 |
-| 5 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 14.0k | +651 | 桌面端 Markdown 知识库管理工具 |
+| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 50.1k | +443 | AI 编码代理的生产级工程技能包 |
+| 2 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | — | 13.9k | +806 | PM 技能市场：结构化 AI 产品管理框架 |
+| 3 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 14.6k | +829 | 桌面端 Markdown 知识库管理工具 |
+| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 38.6k | +3191 | AI 搜索聚合 Reddit、X、YouTube 等平台内容 |
+| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 31.7k | +261 | 通过用户名从3000+网站搜集人物档案 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
