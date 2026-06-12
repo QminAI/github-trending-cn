@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-11`
+> 自动更新，最后更新：`2026-06-12`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-11）
+**今日 Top 5**（2026-06-12）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [apple/container](https://github.com/apple/container) | Swift | 30.7k | +1611 | Mac 上跑 Linux 容器，Apple 官方出品 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 53.4k | +821 | AI 编码代理的生产级工程技能包 |
-| 3 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 2.5k | +527 | 本地优先的医疗 AI，数据不出设备 |
-| 4 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | — | 15.9k | +804 | PM 技能市场：结构化 AI 产品管理框架 |
-| 5 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 2.3k | +308 | AI agent 技能安全扫描器，检测漏洞与恶意模式 |
+| 1 | [apple/container](https://github.com/apple/container) | Swift | 34.2k | +2430 | Mac 上跑 Linux 容器，Apple 官方出品 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 56.0k | +3278 | AI 编码代理的生产级工程技能包 |
+| 3 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 3.0k | +426 | 本地优先的医疗 AI，数据不出设备 |
+| 4 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | — | 16.7k | +1978 | PM 技能市场：结构化 AI 产品管理框架 |
+| 5 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 3.1k | +319 | AI agent 技能安全扫描器，检测漏洞与恶意模式 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
