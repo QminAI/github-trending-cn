@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-12`
+> 自动更新，最后更新：`2026-06-13`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-12）
+**今日 Top 5**（2026-06-13）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [apple/container](https://github.com/apple/container) | Swift | 34.2k | +2430 | Mac 上跑 Linux 容器，Apple 官方出品 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 56.0k | +3278 | AI 编码代理的生产级工程技能包 |
-| 3 | [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 3.0k | +426 | 本地优先的医疗 AI，数据不出设备 |
-| 4 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | — | 16.7k | +1978 | PM 技能市场：结构化 AI 产品管理框架 |
-| 5 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | 3.1k | +319 | AI agent 技能安全扫描器，检测漏洞与恶意模式 |
+| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 118.2k | +179 | 全球公开 IPTV 频道 m3u 合集 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 57.5k | +2656 | AI 编码代理的生产级工程技能包 |
+| 3 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 30.6k | +437 | 开源全渠道客服平台，替代 Intercom/Zendesk |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 226.4k | +1275 | 给编码代理的结构化开发方法论 |
+| 5 | [apple/container](https://github.com/apple/container) | Swift | 35.7k | +3504 | Mac 上跑 Linux 容器，Apple 官方出品 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
