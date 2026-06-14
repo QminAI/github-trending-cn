@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-13`
+> 自动更新，最后更新：`2026-06-14`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-13）
+**今日 Top 5**（2026-06-14）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 118.2k | +179 | 全球公开 IPTV 频道 m3u 合集 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 57.5k | +2656 | AI 编码代理的生产级工程技能包 |
-| 3 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 30.6k | +437 | 开源全渠道客服平台，替代 Intercom/Zendesk |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 226.4k | +1275 | 给编码代理的结构化开发方法论 |
-| 5 | [apple/container](https://github.com/apple/container) | Swift | 35.7k | +3504 | Mac 上跑 Linux 容器，Apple 官方出品 |
+| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 119.7k | +530 | 全球公开 IPTV 频道 m3u 合集 |
+| 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 446.9k | +114 | 免费学编程的全栈课程与开源平台 |
+| 3 | [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | Python | 13.9k | +8 | Python 测试框架，简洁且可扩展 |
+| 4 | [swc-project/swc](https://github.com/swc-project/swc) | Rust | 33.7k | +20 | Rust 编写的超快 JS/TS 编译器 |
+| 5 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 31.0k | +83 | 开源全渠道客服平台，替代 Intercom/Zendesk |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
