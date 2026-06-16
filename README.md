@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-15`
+> 自动更新，最后更新：`2026-06-16`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-15）
+**今日 Top 5**（2026-06-16）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 122.4k | +1528 | 全球公开 IPTV 频道 m3u 合集 |
-| 2 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 8.1k | +35 | 自托管特斯拉数据记录与可视化 |
-| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 29.3k | +1045 | 给 AI Agent 装上网读全网，零 API 费用 |
-| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 10.5k | +20 | 云原生基础设施与Kubernetes管理平台 |
-| 5 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 31.4k | +400 | 开源全渠道客服平台，替代 Intercom/Zendesk |
+| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 123.5k | +2657 | 全球公开 IPTV 频道 m3u 合集 |
+| 2 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 8.3k | +33 | 自托管特斯拉数据记录与可视化 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 31.4k | +1100 | 给 AI Agent 装上免费互联网能力 |
+| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 10.7k | +228 | 云原生基础设施与Kubernetes管理平台 |
+| 5 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 31.9k | +431 | 开源全渠道客服平台，替代 Intercom/Zendesk |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
