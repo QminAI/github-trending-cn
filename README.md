@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-16`
+> 自动更新，最后更新：`2026-06-17`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-16）
+**今日 Top 5**（2026-06-17）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 123.5k | +2657 | 全球公开 IPTV 频道 m3u 合集 |
-| 2 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 8.3k | +33 | 自托管特斯拉数据记录与可视化 |
-| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 31.4k | +1100 | 给 AI Agent 装上免费互联网能力 |
-| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 10.7k | +228 | 云原生基础设施与Kubernetes管理平台 |
-| 5 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 31.9k | +431 | 开源全渠道客服平台，替代 Intercom/Zendesk |
+| 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 448.9k | +633 | 免费学编程的全栈课程与开源平台 |
+| 2 | [swc-project/swc](https://github.com/swc-project/swc) | Rust | 34.0k | +20 | Rust 编写的超快 JS/TS 编译器 |
+| 3 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 8.5k | +215 | 自托管特斯拉数据记录与可视化 |
+| 4 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 124.7k | +1197 | 全球公开 IPTV 频道 m3u 合集 |
+| 5 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | TypeScript | 95.0k | +56 | 浏览器自动化测试与操控的 JS 库 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
