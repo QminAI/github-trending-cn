@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-17`
+> 自动更新，最后更新：`2026-06-18`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-17）
+**今日 Top 5**（2026-06-18）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 448.9k | +633 | 免费学编程的全栈课程与开源平台 |
-| 2 | [swc-project/swc](https://github.com/swc-project/swc) | Rust | 34.0k | +20 | Rust 编写的超快 JS/TS 编译器 |
-| 3 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | 8.5k | +215 | 自托管特斯拉数据记录与可视化 |
-| 4 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 124.7k | +1197 | 全球公开 IPTV 频道 m3u 合集 |
-| 5 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | TypeScript | 95.0k | +56 | 浏览器自动化测试与操控的 JS 库 |
+| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 6.4k | +371 | 毫秒级代码知识图谱 MCP 服务器 |
+| 2 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 9.8k | +421 | 基于公钥寻址的模块化 Rust 网络栈 |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 34.0k | +1161 | 一键给 AI Agent 装上免费互联网能力 |
+| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 11.1k | +196 | 云原生基础设施与Kubernetes管理平台 |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 231.8k | +1129 | 为编码智能体提供结构化开发方法论 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
