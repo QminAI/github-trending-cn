@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-18`
+> 自动更新，最后更新：`2026-06-19`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-18）
+**今日 Top 5**（2026-06-19）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 6.4k | +371 | 毫秒级代码知识图谱 MCP 服务器 |
-| 2 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 9.8k | +421 | 基于公钥寻址的模块化 Rust 网络栈 |
-| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 34.0k | +1161 | 一键给 AI Agent 装上免费互联网能力 |
-| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | 11.1k | +196 | 云原生基础设施与Kubernetes管理平台 |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 231.8k | +1129 | 为编码智能体提供结构化开发方法论 |
+| 1 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 23.8k | +844 | Google 开源的时间序列预测基础模型 |
+| 2 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 10.1k | +369 | 基于公钥寻址的模块化 Rust 网络栈 |
+| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 449.7k | +417 | 免费学编程的全栈课程与开源平台 |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 232.9k | +1429 | 为编码智能体提供结构化开发方法论 |
+| 5 | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | — | 4.3k | +202 | 开源长程智能体编程模型，744B参数 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
