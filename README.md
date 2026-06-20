@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-19`
+> 自动更新，最后更新：`2026-06-20`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-19）
+**今日 Top 5**（2026-06-20）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 23.8k | +844 | Google 开源的时间序列预测基础模型 |
-| 2 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 10.1k | +369 | 基于公钥寻址的模块化 Rust 网络栈 |
-| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 449.7k | +417 | 免费学编程的全栈课程与开源平台 |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 232.9k | +1429 | 为编码智能体提供结构化开发方法论 |
-| 5 | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | — | 4.3k | +202 | 开源长程智能体编程模型，744B参数 |
+| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 8.8k | +1058 | 毫秒级代码知识图谱 MCP 服务器 |
+| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 24.2k | +1510 | Google 开源的时间序列预测基础模型 |
+| 3 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 2.2k | +756 | AI 原生 macOS 视频编辑器 |
+| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 57.6k | +156 | AI 驱动的全球实时情报仪表盘 |
+| 5 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | 27.8k | +107 | 生成式AI一站式资源与面试指南 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
