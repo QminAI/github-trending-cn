@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-20`
+> 自动更新，最后更新：`2026-06-21`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-20）
+**今日 Top 5**（2026-06-21）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 8.8k | +1058 | 毫秒级代码知识图谱 MCP 服务器 |
-| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 24.2k | +1510 | Google 开源的时间序列预测基础模型 |
-| 3 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 2.2k | +756 | AI 原生 macOS 视频编辑器 |
-| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 57.6k | +156 | AI 驱动的全球实时情报仪表盘 |
-| 5 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | 27.8k | +107 | 生成式AI一站式资源与面试指南 |
+| 1 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 4.0k | +902 | AI 原生 macOS 视频编辑器 |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 7.5k | +677 | AI 编码助手变身全自动视频制作系统 |
+| 3 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 42.8k | +3795 | 压缩 AI 代理上下文，减少 60-95% token |
+| 4 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 20.5k | +801 | Rust 写的进程内 SQLite 兼容数据库 |
+| 5 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 51.9k | +420 | 开源设计协作平台，代码与设计同源 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
