@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-21`
+> 自动更新，最后更新：`2026-06-22`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-21）
+**今日 Top 5**（2026-06-22）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 4.0k | +902 | AI 原生 macOS 视频编辑器 |
-| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 7.5k | +677 | AI 编码助手变身全自动视频制作系统 |
-| 3 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 42.8k | +3795 | 压缩 AI 代理上下文，减少 60-95% token |
-| 4 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | 20.5k | +801 | Rust 写的进程内 SQLite 兼容数据库 |
-| 5 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 51.9k | +420 | 开源设计协作平台，代码与设计同源 |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 10.3k | +987 | AI 编码助手变身全自动视频制作系统 |
+| 2 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 6.5k | +1834 | macOS 原生 AI 视频编辑器，集成 MCP 与生成式 AI |
+| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 31.8k | +614 | 本地优先的开源 AI 语音工作室 |
+| 4 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 18.1k | +361 | 754 项结构化网络安全技能库，供 AI 代理使用 |
+| 5 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 52.6k | +1135 | 开源设计协作平台，代码与设计同源 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
