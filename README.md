@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-22`
+> 自动更新，最后更新：`2026-06-23`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-22）
+**今日 Top 5**（2026-06-23）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 10.3k | +987 | AI 编码助手变身全自动视频制作系统 |
-| 2 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 6.5k | +1834 | macOS 原生 AI 视频编辑器，集成 MCP 与生成式 AI |
-| 3 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 31.8k | +614 | 本地优先的开源 AI 语音工作室 |
-| 4 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 18.1k | +361 | 754 项结构化网络安全技能库，供 AI 代理使用 |
-| 5 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 52.6k | +1135 | 开源设计协作平台，代码与设计同源 |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 13.9k | +2938 | AI代理驱动的开源视频制作系统 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 46.5k | +1557 | LLM 驱动的多市场股票智能分析系统 |
+| 3 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 19.2k | +956 | 817 个结构化网络安全技能，AI 代理即插即用 |
+| 4 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 113.6k | +573 | 23 个 AI 角色工具集，把 Claude Code 变成虚拟工程团队 |
+| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 73.7k | +738 | 开源超级Agent框架，支持长周期复杂任务 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
