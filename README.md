@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-23`
+> 自动更新，最后更新：`2026-06-24`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-23）
+**今日 Top 5**（2026-06-24）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 13.9k | +2938 | AI代理驱动的开源视频制作系统 |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 46.5k | +1557 | LLM 驱动的多市场股票智能分析系统 |
-| 3 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 19.2k | +956 | 817 个结构化网络安全技能，AI 代理即插即用 |
-| 4 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 113.6k | +573 | 23 个 AI 角色工具集，把 Claude Code 变成虚拟工程团队 |
-| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 73.7k | +738 | 开源超级Agent框架，支持长周期复杂任务 |
+| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 17.6k | +3592 | AI代理驱动的开源视频制作系统 |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 47.9k | +1119 | LLM 驱动的多市场股票智能分析系统 |
+| 3 | [apple/container](https://github.com/apple/container) | Swift | 41.4k | +1746 | Mac 上跑 Linux 容器，Apple 官方出品 |
+| 4 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 1.8k | +152 | AI 简历评分工具，提取 PDF 并用 LLM 评估 |
+| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 18.9k | +826 | 用 AI 一键克隆任意网站为 Next.js 代码 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
