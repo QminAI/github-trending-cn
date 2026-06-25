@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-24`
+> 自动更新，最后更新：`2026-06-25`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-24）
+**今日 Top 5**（2026-06-25）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 17.6k | +3592 | AI代理驱动的开源视频制作系统 |
-| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 47.9k | +1119 | LLM 驱动的多市场股票智能分析系统 |
-| 3 | [apple/container](https://github.com/apple/container) | Swift | 41.4k | +1746 | Mac 上跑 Linux 容器，Apple 官方出品 |
-| 4 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 1.8k | +152 | AI 简历评分工具，提取 PDF 并用 LLM 评估 |
-| 5 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 18.9k | +826 | 用 AI 一键克隆任意网站为 Next.js 代码 |
+| 1 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 17.9k | +619 | 给 AI 编码代理用的设计系统描述格式 |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 21.2k | +3719 | 开源智能体视频制作系统，12条流水线 |
+| 3 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 1.5k | +201 | 基于Claude Code的价值投资研究框架 |
+| 4 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | TypeScript | 6.1k | +112 | 自托管实时协作旅行规划器 |
+| 5 | [apple/container](https://github.com/apple/container) | Swift | 42.8k | +1838 | Mac 上跑 Linux 容器，Apple 官方出品 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
