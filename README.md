@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-27`
+> 自动更新，最后更新：`2026-06-28`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-27）
+**今日 Top 5**（2026-06-28）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 13.1k | +432 | 无用户标识的隐私优先聊天平台 |
-| 2 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 21.9k | +2407 | 给 AI 编码代理用的设计系统描述格式 |
-| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 61.9k | +80 | 开源驾驶辅助系统，支持300+车型 |
-| 4 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | Go | 3.7k | +398 | Git 代理门控，推送前自动验证并开 PR |
-| 5 | [grafana/grafana](https://github.com/grafana/grafana) | TypeScript | 75.1k | +32 | 开源可观测性与数据可视化平台 |
+| 1 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 14.3k | +1469 | 无用户标识的隐私优先聊天平台 |
+| 2 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 124.4k | +459 | 开发者免费服务清单，涵盖SaaS/PaaS/IaaS |
+| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 62.2k | +322 | 开源驾驶辅助系统，支持300+车型 |
+| 4 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 4.9k | +685 | AI 驱动的价值投资研究框架，多 Agent 并行分析 |
+| 5 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 8.0k | +372 | 前馈式流式3D场景重建基础模型 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
