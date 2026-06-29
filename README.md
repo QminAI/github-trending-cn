@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-28`
+> 自动更新，最后更新：`2026-06-29`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-28）
+**今日 Top 5**（2026-06-29）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 14.3k | +1469 | 无用户标识的隐私优先聊天平台 |
-| 2 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 124.4k | +459 | 开发者免费服务清单，涵盖SaaS/PaaS/IaaS |
-| 3 | [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 62.2k | +322 | 开源驾驶辅助系统，支持300+车型 |
-| 4 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 4.9k | +685 | AI 驱动的价值投资研究框架，多 Agent 并行分析 |
-| 5 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 8.0k | +372 | 前馈式流式3D场景重建基础模型 |
+| 1 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 15.9k | +1180 | 无用户标识的隐私优先聊天平台 |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 118.2k | +1221 | AI 专家角色集合，可注入多种开发工具 |
+| 3 | [cupy/cupy](https://github.com/cupy/cupy) | Python | 11.7k | +174 | GPU 加速的 NumPy/SciPy 替代库 |
+| 4 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 4.1k | +365 | macOS 离线语音转文字听写应用 |
+| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 34.1k | +191 | 通过用户名从3000+网站收集人员档案 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
