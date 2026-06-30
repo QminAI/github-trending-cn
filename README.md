@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-29`
+> 自动更新，最后更新：`2026-06-30`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-29）
+**今日 Top 5**（2026-06-30）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 15.9k | +1180 | 无用户标识的隐私优先聊天平台 |
-| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 118.2k | +1221 | AI 专家角色集合，可注入多种开发工具 |
-| 3 | [cupy/cupy](https://github.com/cupy/cupy) | Python | 11.7k | +174 | GPU 加速的 NumPy/SciPy 替代库 |
-| 4 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 4.1k | +365 | macOS 离线语音转文字听写应用 |
-| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 34.1k | +191 | 通过用户名从3000+网站收集人员档案 |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 27.5k | +395 | AI驱动的开源渗透测试工具 |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 119.9k | +1425 | AI 专家角色集合，一键注入开发工具 |
+| 3 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 4.7k | +830 | macOS 离线语音转文字听写应用 |
+| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 8.1k | +617 | 免费 AI 网关，聚合 236 家提供商，50+ 免费 |
+| 5 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 12.3k | +967 | 用 Claude Code 编辑视频的开源工具 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
