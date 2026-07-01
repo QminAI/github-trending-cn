@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-06-30`
+> 自动更新，最后更新：`2026-07-01`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-06-30）
+**今日 Top 5**（2026-07-01）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 27.5k | +395 | AI驱动的开源渗透测试工具 |
-| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 119.9k | +1425 | AI 专家角色集合，一键注入开发工具 |
-| 3 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 4.7k | +830 | macOS 离线语音转文字听写应用 |
-| 4 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 8.1k | +617 | 免费 AI 网关，聚合 236 家提供商，50+ 免费 |
-| 5 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 12.3k | +967 | 用 Claude Code 编辑视频的开源工具 |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 121.8k | +1791 | AI 专家团队配置文件集合，注入 IDE 使用 |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 28.6k | +515 | AI驱动的开源渗透测试工具 |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 16.1k | +721 | AI驱动的个人量化交易智能体 |
+| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 7.9k | +1343 | 1324个健身动作的结构化数据集，含6种语言说明 |
+| 5 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 2.1k | +364 | Meta 开源的可定制设计系统，支持 AI 协作 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
