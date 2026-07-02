@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-01`
+> 自动更新，最后更新：`2026-07-02`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-01）
+**今日 Top 5**（2026-07-02）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 121.8k | +1791 | AI 专家团队配置文件集合，注入 IDE 使用 |
-| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 28.6k | +515 | AI驱动的开源渗透测试工具 |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 16.1k | +721 | AI驱动的个人量化交易智能体 |
-| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 7.9k | +1343 | 1324个健身动作的结构化数据集，含6种语言说明 |
-| 5 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | 2.1k | +364 | Meta 开源的可定制设计系统，支持 AI 协作 |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 30.7k | +1211 | AI驱动的开源渗透测试工具 |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 79.4k | +866 | 让 AI 助手用原始人风格说话，节省 65% token |
+| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 124.9k | +2114 | AI 专家团队配置文件集合，注入 IDE 使用 |
+| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 8.9k | +2470 | 1324个健身动作的结构化数据集，含6种语言说明 |
+| 5 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 57.3k | +322 | AI求职系统，用Claude Code自动评估职位并生成简历 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
