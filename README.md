@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-02`
+> 自动更新，最后更新：`2026-07-03`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-02）
+**今日 Top 5**（2026-07-03）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 30.7k | +1211 | AI驱动的开源渗透测试工具 |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 79.4k | +866 | 让 AI 助手用原始人风格说话，节省 65% token |
-| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 124.9k | +2114 | AI 专家团队配置文件集合，注入 IDE 使用 |
-| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 8.9k | +2470 | 1324个健身动作的结构化数据集，含6种语言说明 |
-| 5 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 57.3k | +322 | AI求职系统，用Claude Code自动评估职位并生成简历 |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 33.5k | +2137 | AI驱动的自动化渗透测试工具 |
+| 2 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | 22.9k | +352 | 在 Claude Code 中调用 Codex 进行代码审查或任务委派 |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 82.3k | +926 | 让 AI 代理用原始人风格说话，节省 65% 输出 token |
+| 4 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Java | 77.2k | +77 | 分布式搜索与分析引擎，支持向量搜索 |
+| 5 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | 8.2k | +26 | GitHub Actions 检出仓库代码 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
