@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-04`
+> 自动更新，最后更新：`2026-07-05`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-04）
+**今日 Top 5**（2026-07-05）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | 23.6k | +634 | 在 Claude Code 中调用 Codex 进行代码审查或任务委派 |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 83.4k | +2863 | 让 AI 代理用原始人风格说话，节省 65% 输出 token |
-| 3 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 22.7k | +1110 | 用自然语言控制网页的 JavaScript 内嵌 GUI Agent |
-| 4 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 35.4k | +2803 | AI驱动的自动化渗透测试工具 |
-| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 45.6k | +405 | 让AI编码助手控制Chrome DevTools进行调试和性能分析 |
+| 1 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | 25.1k | +718 | 在 Claude Code 中调用 Codex 进行代码审查或任务委派 |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 84.4k | +1089 | 让 AI 代理用原始人风格说话，节省 65% 输出 token |
+| 3 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 23.5k | +742 | 用自然语言控制网页的 JavaScript 内嵌 GUI Agent |
+| 4 | [usestrix/strix](https://github.com/usestrix/strix) | Python | 36.5k | +1904 | AI驱动的自动化渗透测试工具 |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 45.9k | +304 | 让AI编码助手控制Chrome DevTools进行调试和性能分析 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
