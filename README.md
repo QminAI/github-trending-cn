@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-06`
+> 自动更新，最后更新：`2026-07-07`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-06）
+**今日 Top 5**（2026-07-07）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 50.7k | +981 | 各大 AI 聊天机器人系统提示词泄露集合 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 70.2k | +1114 | AI编码代理的生产级工程技能集 |
-| 3 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | 18.3k | +1409 | 本地优先的AI会议助手，实时转录与摘要 |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 76.9k | +161 | 用WiFi信号实现穿墙人体感知与姿态估计 |
-| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | JavaScript | 58.3k | +863 | AI 前端设计技能，防止生成平庸 UI |
+| 1 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 52.3k | +1378 | 收集 AI 聊天机器人系统提示的仓库 |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 71.5k | +1112 | AI编码代理的生产级工程技能包 |
+| 3 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | 20.0k | +2494 | 本地优先的AI会议助手，实时转录与摘要 |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 78.0k | +470 | 用WiFi信号实现穿墙人体感知与姿态估计 |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | JavaScript | 59.7k | +1458 | AI 前端设计技能，防止生成平庸 UI |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
