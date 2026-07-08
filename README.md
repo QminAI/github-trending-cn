@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-07`
+> 自动更新，最后更新：`2026-07-08`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-07）
+**今日 Top 5**（2026-07-08）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 52.3k | +1378 | 收集 AI 聊天机器人系统提示的仓库 |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 71.5k | +1112 | AI编码代理的生产级工程技能包 |
-| 3 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | 20.0k | +2494 | 本地优先的AI会议助手，实时转录与摘要 |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 78.0k | +470 | 用WiFi信号实现穿墙人体感知与姿态估计 |
-| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | JavaScript | 59.7k | +1458 | AI 前端设计技能，防止生成平庸 UI |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 13.2k | +2514 | AI 驱动的求职申请框架，基于 Claude Code |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 72.7k | +1317 | AI编码代理的生产级工程技能包 |
+| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 78.8k | +1129 | 用WiFi信号实现穿墙人体感知与姿态估计 |
+| 4 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 7.3k | +610 | AI Agent 本地长期记忆系统，零外部 API |
+| 5 | [prisma/prisma](https://github.com/prisma/prisma) | TypeScript | 46.4k | +30 | Node.js & TypeScript 的下一代 ORM |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
