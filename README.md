@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-08`
+> 自动更新，最后更新：`2026-07-09`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-08）
+**今日 Top 5**（2026-07-09）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 13.2k | +2514 | AI 驱动的求职申请框架，基于 Claude Code |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 72.7k | +1317 | AI编码代理的生产级工程技能包 |
-| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 78.8k | +1129 | 用WiFi信号实现穿墙人体感知与姿态估计 |
-| 4 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 7.3k | +610 | AI Agent 本地长期记忆系统，零外部 API |
-| 5 | [prisma/prisma](https://github.com/prisma/prisma) | TypeScript | 46.4k | +30 | Node.js & TypeScript 的下一代 ORM |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 16.9k | +5079 | AI 驱动的求职申请框架，基于 Claude Code |
+| 2 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | C# | 1.7k | +541 | Unturned 游戏源码，支持 Unity 编辑与模组开发 |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 75.3k | +1297 | AI编码代理的生产级工程技能集 |
+| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | — | 98.9k | +1569 | 知名品牌 DESIGN.md 设计系统合集 |
+| 5 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | 12.8k | +1717 | AI 代理读写 Office 文档的 CLI 工具 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
