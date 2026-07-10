@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-09`
+> 自动更新，最后更新：`2026-07-10`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-09）
+**今日 Top 5**（2026-07-10）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | 16.9k | +5079 | AI 驱动的求职申请框架，基于 Claude Code |
-| 2 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | C# | 1.7k | +541 | Unturned 游戏源码，支持 Unity 编辑与模组开发 |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 75.3k | +1297 | AI编码代理的生产级工程技能集 |
-| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | — | 98.9k | +1569 | 知名品牌 DESIGN.md 设计系统合集 |
-| 5 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | 12.8k | +1717 | AI 代理读写 Office 文档的 CLI 工具 |
+| 1 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 6.8k | +185 | MCP 服务器，让 AI 控制终端、搜索文件、编辑代码 |
+| 2 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 93.9k | +82 | 极速 JavaScript 运行时、打包器、测试器与包管理器 |
+| 3 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 17.5k | +3 | Google 开源的 C++ 标准库增强组件集合 |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 76.4k | +2554 | AI编码代理的生产级工程技能集合 |
+| 5 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | 6.0k | +65 | C++ YAML 1.2 解析与生成库 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
