@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-10`
+> 自动更新，最后更新：`2026-07-11`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-10）
+**今日 Top 5**（2026-07-11）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 6.8k | +185 | MCP 服务器，让 AI 控制终端、搜索文件、编辑代码 |
-| 2 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 93.9k | +82 | 极速 JavaScript 运行时、打包器、测试器与包管理器 |
-| 3 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 17.5k | +3 | Google 开源的 C++ 标准库增强组件集合 |
-| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 76.4k | +2554 | AI编码代理的生产级工程技能集合 |
-| 5 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | 6.0k | +65 | C++ YAML 1.2 解析与生成库 |
+| 1 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | 20.6k | +76 | C++ 现代化单元测试与 BDD 框架 |
+| 2 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 17.6k | +89 | Google 开源的 C++ 标准库增强组件集合 |
+| 3 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 28.9k | +118 | Claude Code 配置模板与工具集 |
+| 4 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 6.9k | +117 | Stitch MCP 的 Agent Skills 插件集合 |
+| 5 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | Go | 49.3k | +172 | 声明式基础设施编排工具 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
