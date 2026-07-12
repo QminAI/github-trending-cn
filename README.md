@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-11`
+> 自动更新，最后更新：`2026-07-12`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-11）
+**今日 Top 5**（2026-07-12）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | 20.6k | +76 | C++ 现代化单元测试与 BDD 框架 |
-| 2 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 17.6k | +89 | Google 开源的 C++ 标准库增强组件集合 |
-| 3 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 28.9k | +118 | Claude Code 配置模板与工具集 |
-| 4 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 6.9k | +117 | Stitch MCP 的 Agent Skills 插件集合 |
-| 5 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | Go | 49.3k | +172 | 声明式基础设施编排工具 |
+| 1 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 2.3k | +444 | 拦截 AI 代理的破坏性命令 |
+| 2 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 7.9k | +909 | MCP 服务器，让 AI 控制终端、搜索文件、编辑代码 |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 20.0k | +776 | AI驱动的个人量化交易智能体 |
+| 4 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Python | 23.0k | +55 | Python 数据管道编排框架 |
+| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 118.2k | +549 | 100+ 可运行的 AI Agent 和 RAG 应用模板 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
