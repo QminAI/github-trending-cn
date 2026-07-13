@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-12`
+> 自动更新，最后更新：`2026-07-13`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-12）
+**今日 Top 5**（2026-07-13）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 2.3k | +444 | 拦截 AI 代理的破坏性命令 |
-| 2 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 7.9k | +909 | MCP 服务器，让 AI 控制终端、搜索文件、编辑代码 |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 20.0k | +776 | AI驱动的个人量化交易智能体 |
-| 4 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Python | 23.0k | +55 | Python 数据管道编排框架 |
-| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 118.2k | +549 | 100+ 可运行的 AI Agent 和 RAG 应用模板 |
+| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 64.1k | +1077 | 开源跨平台视频编辑器，对标 CapCut |
+| 2 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 3.6k | +444 | 拦截 AI 代理的破坏性命令 |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 21.1k | +768 | AI驱动的个人量化交易代理 |
+| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 41.6k | +57 | 自托管 AI 虚拟伴侣，能玩游戏、实时语音聊天 |
+| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 119.1k | +408 | 100+ 可运行的 AI Agent 和 RAG 应用模板 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
