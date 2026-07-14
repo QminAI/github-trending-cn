@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-13`
+> 自动更新，最后更新：`2026-07-14`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-13）
+**今日 Top 5**（2026-07-14）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 64.1k | +1077 | 开源跨平台视频编辑器，对标 CapCut |
-| 2 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 3.6k | +444 | 拦截 AI 代理的破坏性命令 |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 21.1k | +768 | AI驱动的个人量化交易代理 |
-| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 41.6k | +57 | 自托管 AI 虚拟伴侣，能玩游戏、实时语音聊天 |
-| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 119.1k | +408 | 100+ 可运行的 AI Agent 和 RAG 应用模板 |
+| 1 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 120.2k | +996 | 100+ 可运行的 AI Agent 与 RAG 应用模板 |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 169.3k | +1559 | AI 编码代理的工程化技能集 |
+| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4.1k | +1295 | 拦截 AI 代理执行的危险 git/shell 命令 |
+| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 68.5k | +1229 | 开源跨平台视频编辑器，对标 CapCut |
+| 5 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 61.7k | +330 | AI 驱动的对冲基金模拟系统 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
