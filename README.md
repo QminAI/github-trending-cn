@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-14`
+> 自动更新，最后更新：`2026-07-15`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-14）
+**今日 Top 5**（2026-07-15）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 120.2k | +996 | 100+ 可运行的 AI Agent 与 RAG 应用模板 |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 169.3k | +1559 | AI 编码代理的工程化技能集 |
-| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4.1k | +1295 | 拦截 AI 代理执行的危险 git/shell 命令 |
-| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 68.5k | +1229 | 开源跨平台视频编辑器，对标 CapCut |
-| 5 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 61.7k | +330 | AI 驱动的对冲基金模拟系统 |
+| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 69.9k | +4276 | 开源跨平台视频编辑器，对标 CapCut |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 6.6k | +1015 | AI 代码助手反模板化设计技能 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 171.4k | +1679 | AI 编码代理的工程化技能集 |
+| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 42.3k | +537 | 自托管 AI 虚拟伴侣，能玩游戏、实时语音聊天 |
+| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4.6k | +473 | 拦截 AI 代理执行的危险 git 和 shell 命令 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
