@@ -10,18 +10,18 @@
 
 ## 今日榜单
 
-> 自动更新，最后更新：`2026-07-15`
+> 自动更新，最后更新：`2026-07-16`
 
 <!-- DAILY_TOP5_START -->
-**今日 Top 5**（2026-07-15）
+**今日 Top 5**（2026-07-16）
 
 | # | 项目 | 语言 | ⭐ Stars | 今日新增 | 一句话 |
 |---|------|------|---------|---------|--------|
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 69.9k | +4276 | 开源跨平台视频编辑器，对标 CapCut |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 6.6k | +1015 | AI 代码助手反模板化设计技能 |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 171.4k | +1679 | AI 编码代理的工程化技能集 |
-| 4 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 42.3k | +537 | 自托管 AI 虚拟伴侣，能玩游戏、实时语音聊天 |
-| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 4.6k | +473 | 拦截 AI 代理执行的危险 git 和 shell 命令 |
+| 1 | [apache/ossie](https://github.com/apache/ossie) | Python | 722 | +34 | 语义模型交换的开放标准规范 |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 10.1k | +1277 | AI 代码助手反模板化设计技能 |
+| 3 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 73.4k | +1664 | 开源跨平台视频编辑器，对标 CapCut |
+| 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 35.6k | +58 | 开源产品分析平台，集多种数据工具于一体 |
+| 5 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | 65.8k | +299 | 为低成本模型优化的编码代理 |
 <!-- DAILY_TOP5_END -->
 
 [查看完整今日榜 →](./daily/)
